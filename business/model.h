@@ -1,0 +1,4 @@
+#ifndef MIMOSA_MODEL_H
+#define MIMOSA_MODEL_H
+
+#endif //MIMOSA_MODEL_H

@@ -1,0 +1,4 @@
+#ifndef MIMOSA_CODEC_H
+#define MIMOSA_CODEC_H
+
+#endif //MIMOSA_CODEC_H

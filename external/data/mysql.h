@@ -1,0 +1,4 @@
+#ifndef MIMOSA_MYSQL_H
+#define MIMOSA_MYSQL_H
+
+#endif //MIMOSA_MYSQL_H

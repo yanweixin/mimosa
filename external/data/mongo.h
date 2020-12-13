@@ -1,0 +1,4 @@
+#ifndef MIMOSA_MONGO_H
+#define MIMOSA_MONGO_H
+
+#endif //MIMOSA_MONGO_H

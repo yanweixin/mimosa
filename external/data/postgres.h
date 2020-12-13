@@ -1,0 +1,4 @@
+#ifndef MIMOSA_POSTGRES_H
+#define MIMOSA_POSTGRES_H
+
+#endif //MIMOSA_POSTGRES_H

@@ -1,0 +1,4 @@
+#ifndef MIMOSA_MQ_RABBIT_H
+#define MIMOSA_MQ_RABBIT_H
+
+#endif //MIMOSA_MQ_RABBIT_H
